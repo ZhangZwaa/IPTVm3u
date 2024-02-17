@@ -68,4 +68,20 @@ http://www.kitcc.cn:9981/stream/channelid/90729149?profile=pass
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="CCTV",CCTV-1reserved
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="CCTV",CCTV-2reserved
-http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
+http://106.115.25.42:9999/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="" group-title="CCTV",CCTV-3reserved
+http://36.96.38.246:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-logo="" group-title="CCTV",CCTV-4reserved
+CCTV-4,http://106.115.25.42:9999/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="" group-title="CCTV",CCTV-5reserved
+CCTV-5,http://106.115.25.42:9999/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-logo="" group-title="CCTV",CCTV-6reserved
+CCTV-6,http://106.115.25.42:9999/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-logo="" group-title="CCTV",CCTV-7reserved
+CCTV-7,http://106.115.25.42:9999/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-logo="" group-title="CCTV",CCTV-8reserved
+CCTV-8,http://106.115.25.42:9999/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="" group-title="CCTV",CCTV-9reserved
+CCTV-9,http://106.115.25.42:9999/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="" group-title="CCTV",CCTV-10reserved
+CCTV-10,http://106.115.25.42:9999/tsfile/live/0010_1.m3u8
